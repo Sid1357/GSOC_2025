@@ -1,6 +1,6 @@
 # GSOC 2025 Evaluation Test - Project Repository
 
-Welcome to the evaluation test repository for the GSOC 2025 DeepLense projects. This repository contains a series of Jupyter Notebooks demonstrating implementations for various evaluation tasks for DeepLense. Each task targets a specific challenge and provides both detailed explanations within the notebooks as well as summarized information here.
+Welcome to my evaluation test repository for the GSOC 2025 DeepLense projects. This repository contains a series of Jupyter Notebooks demonstrating implementations for various evaluation tasks for DeepLense. Each task targets a specific challenge(as a part of application process) and provides both detailed explanations within the notebooks as well as summarized information here.
 
 ---
 
